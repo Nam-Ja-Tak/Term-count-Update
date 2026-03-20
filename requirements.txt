@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+python-docx
+PyPDF2
+deep-translator
+openpyxl
+google-generativeai
